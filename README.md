@@ -1,5 +1,5 @@
 # zsh_config
-my default zsh configuration files
+my default zsh configuration files: (oh-my-zsh & autoenv)
 
 install:
 
